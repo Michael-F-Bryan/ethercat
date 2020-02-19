@@ -4,7 +4,7 @@
 
 ([API Docs])
 
-> **TODO:** Write up an interesting description.
+A Rust implementation of the EtherCAT stack.
 
 ## License
 
